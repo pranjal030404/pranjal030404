@@ -26,7 +26,7 @@ About Me
 
 - 📄 Know about my experiences [https://github.com/pranjal030404](https://github.com/pranjal030404)
 
-- ⚡ Fun fact **I am a Harry Potter fan and i don't like muggles**
+- ⚡ Fun fact **The number 7 is a recurring theme in the Harry Potter series: seven books, seven Weasley siblings, seven players on a Quidditch team, seven years at Hogwarts, and Voldemort split his soul into seven parts!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
