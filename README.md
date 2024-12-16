@@ -46,3 +46,6 @@ About Me
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal030404&show_icons=true&locale=en" alt="pranjal030404" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal030404&" alt="sunidhichaturvedi" /></p>
+
+
