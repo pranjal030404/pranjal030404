@@ -5,7 +5,7 @@
 
 About Me
 - 🎓 BTech in Computer Science
-- 🌱 Learning DevOps and aiming to be a Product Manager
+- 🌱 Learning DevOps and aiming to be a Project Manager
 - 💻 Coding enthusiast and open-source contributor
   
 - 🔭 I’m currently working on [Youtube-Clone](https://github.com/pranjal030404/Youtube-Clone-.git)
