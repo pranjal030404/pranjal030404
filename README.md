@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranjal Tiwari</h1>
 <h3 align="center">A passionate Devops Enginner from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal030404&label=Profile%20views&color=0e75b6&style=flat" alt="PranjalTIwari" /> </p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal030404" alt="pranjal030404" /></a> </p>
 
 About Me
