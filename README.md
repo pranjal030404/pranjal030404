@@ -15,7 +15,7 @@ About Me
 
 - 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on [Youtube-clone](https://github.com/pranjal030404/Youtube-Clone-.git)
+- 👯 I’m looking to collaborate on [DSA-Mentor](https://dsa.arthvex.co.in/)
 
 - 🤝 I’m looking for help with **Devops**
 
