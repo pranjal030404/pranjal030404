@@ -19,7 +19,7 @@ About Me
 
 - 🤝 I’m looking for help with **Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranjal030404](https://github.com/pranjal030404)
+- 👨‍💻 All of my projects are available at [Pranjal](https://pranjal030404.github.io/portfolio/)
 
 - 📝 I regularly write articles on [DSA](DSA)
 
